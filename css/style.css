@@ -1019,3 +1019,9 @@ and (max-width : 480px) {
         font-size: 20px;
     }
 }
+
+.bg-image {
+    background-image: url("images/外场调试.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
