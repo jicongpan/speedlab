@@ -1021,7 +1021,12 @@ and (max-width : 480px) {
 }
 
 .bg-image {
-    background-image: url("images/外场调试.jpg");
+    background-image: url("E:\\前端项目\\speedlab\\images\\背景3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; */
 }
