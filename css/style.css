@@ -1021,7 +1021,7 @@ and (max-width : 480px) {
 }
 
 .bg-image {
-    background-image: url("E:\\前端项目\\speedlab\\images\\logo2.png");
+    background-image: url("E:\\前端项目\\speedlab\\images\\speedlab.png");
     background-repeat: no-repeat;
     /* background-size: cover; */
     background-size: contain;
