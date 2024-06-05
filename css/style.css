@@ -481,7 +481,7 @@ header {
 
 }
 
-.bg-image {
+#bg-image {
     background-image: url("E:\\前端项目\\speedlab\\images\\speedlablog - 副本.jpg");
     background-repeat: no-repeat;
     /* background-size: cover; */
