@@ -481,18 +481,7 @@ header {
 
 }
 
-#bg-image {
-    background-image: url("E:\\前端项目\\speedlab\\images\\speedlablog - 副本.jpg");
-    background-repeat: no-repeat;
-    /* background-size: cover; */
-    background-size: contain;
-    background-position:  center;
-    /* position: absolute;
-    top: 0;
-    left: 0; */
-    width: 100%;
-    height: 100%;
-}
+
 /*--------------------
 4.2. Featured
 --------------------*/
